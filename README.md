@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vangricky&label=Profile%20views&color=0e75b6&style=flat" alt="vangricky" /> </p>
 
-- 🔭 I’m currently enrolled in an online web developer bootcamp [https://github.com/vangricky/Web-Developer-Bootcamp](https://github.com/vangricky/Web-Developer-Bootcamp)
+- 🔭 I’m currently enrolled in an online web developer bootcamp. See my progress here: [https://github.com/vangricky/Web-Developer-Bootcamp](https://github.com/vangricky/Web-Developer-Bootcamp)
 
 - 🌱 I’m currently learning **Python, JavaScript, HTML, CSS**
 
