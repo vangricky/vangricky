@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS**
 
-- 📫 How to reach me **vangcheemeng@yahoo.com**
+- 📫 How to reach me **cheemengrvang@gmail.com**
 
 - ⚡ Fun fact **I love to play volleyball :)**
 
