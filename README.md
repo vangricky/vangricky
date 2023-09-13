@@ -1,7 +1,7 @@
-<h1 align="center">Hello! I'm Ricky Vang</h1>
+![gif hub](https://github.com/vangricky/vangricky/assets/93358606/b4a38229-f492-4c6c-aa4e-a95b8b99c44c)<h1 align="center">Hello! I'm Ricky Vang</h1>
 <h3 align="center">BYU-I Web Developer Student</h3>
 
-<img align="right" alt="coder" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="coder" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/8c5a6ae295d7b6e73adaa9ae68b3b8fd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vangricky&label=Profile%20views&color=0e75b6&style=flat" alt="vangricky" /> </p>
 
