@@ -1,4 +1,4 @@
-![gif hub](https://github.com/vangricky/vangricky/assets/93358606/b4a38229-f492-4c6c-aa4e-a95b8b99c44c)<h1 align="center">Hello! I'm Ricky Vang</h1>
+<h1 align="center">Hello! I'm Ricky Vang</h1>
 <h3 align="center">BYU-I Web Developer Student</h3>
 
 <img align="right" alt="coder" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/8c5a6ae295d7b6e73adaa9ae68b3b8fd.gif">
