@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Ricky Vang</h1>
-<h3 align="center">Web Developer turned AI Engineer...</h3>
+<h3 align="center">Web Developer | Sr. IT Support Technician</h3>
 
 <img align="right" alt="coder" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/8c5a6ae295d7b6e73adaa9ae68b3b8fd.gif">
 
